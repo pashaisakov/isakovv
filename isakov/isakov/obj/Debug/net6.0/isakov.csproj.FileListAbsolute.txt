@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\isakov\isakov\bin\Debug\net6.0\isakov.exe
+C:\Users\user\Desktop\isakov\isakov\bin\Debug\net6.0\isakov.deps.json
+C:\Users\user\Desktop\isakov\isakov\bin\Debug\net6.0\isakov.runtimeconfig.json
+C:\Users\user\Desktop\isakov\isakov\bin\Debug\net6.0\isakov.dll
+C:\Users\user\Desktop\isakov\isakov\bin\Debug\net6.0\isakov.pdb
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.AssemblyInfo.cs
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.dll
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\refint\isakov.dll
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.pdb
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\isakov.genruntimeconfig.cache
+C:\Users\user\Desktop\isakov\isakov\obj\Debug\net6.0\ref\isakov.dll
